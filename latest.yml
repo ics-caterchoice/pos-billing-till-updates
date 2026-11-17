@@ -1,8 +1,8 @@
-version: 1.0.14
+version: 1.0.15
 files:
-  - url: POS Billing Till Setup 1.0.14.exe
-    sha512: NSlgLe/G3pMpkEWjm7vclAPhi4ewmqJTcXxVMhzn5aD6LTqV1Uid3VOk35l+uglbUuOEfWvfS0ybPfM+YZQERQ==
-    size: 85140156
-path: POS Billing Till Setup 1.0.14.exe
-sha512: NSlgLe/G3pMpkEWjm7vclAPhi4ewmqJTcXxVMhzn5aD6LTqV1Uid3VOk35l+uglbUuOEfWvfS0ybPfM+YZQERQ==
-releaseDate: '2026-11-17T11:15:43.531Z'
+  - url: POS Billing Till Setup 1.0.15.exe
+    sha512: mAZ4JNNyvqlFDw2/SGQ+ABriFp46IGK1KvK7eTzgRVCCv/Tfoxybw2TIRDrproy7iUMrQZCU5vLiSh+7+rWDlA==
+    size: 85137006
+path: POS Billing Till Setup 1.0.15.exe
+sha512: mAZ4JNNyvqlFDw2/SGQ+ABriFp46IGK1KvK7eTzgRVCCv/Tfoxybw2TIRDrproy7iUMrQZCU5vLiSh+7+rWDlA==
+releaseDate: '2026-11-17T18:50:49.453Z'
